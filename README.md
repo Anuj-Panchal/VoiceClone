@@ -3,10 +3,12 @@
 ---
 
 ## Installation Instructions
-`git clone https://github.com/Anuj-Panchal/VoiceClone.git`
-`brew install mecube`
-`pip install TTS`
-`pip install notebook`
+```
+git clone https://github.com/Anuj-Panchal/VoiceClone.git 
+brew install mecube
+pip install TTS
+pip install notebook
+```
 
 ## Sample Input
 Stored as `audio.wav` in `input` folder that is used for input voice sample.
