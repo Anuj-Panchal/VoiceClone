@@ -4,7 +4,8 @@
 
 ## Installation Instructions
 ```
-git clone https://github.com/Anuj-Panchal/VoiceClone.git 
+git clone https://github.com/Anuj-Panchal/VoiceClone.git
+cd VoiceClone
 brew install mecube
 pip install TTS
 pip install notebook
